@@ -1,0 +1,13 @@
+/*
+ * Document   : styleList
+ * Author     : JORGE LUIS HENAO
+ *Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    padding-left: 0.3em;
+    font-family: Georgia, "Times New Roman", serif;
+    color: red;
+    background-color: #d8da3d; 
+}
